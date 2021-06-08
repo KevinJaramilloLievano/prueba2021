@@ -46,4 +46,6 @@ main()
 	cout<<"El cohete nave es de "<<nave.getMaterial()<<endl;
 	cout<<"Color "<<nave.getColor()<<endl;
 	nave.volar();
+	
+	//nuevos comentarios agregados
 }
