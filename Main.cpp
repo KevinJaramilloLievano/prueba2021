@@ -1,3 +1,4 @@
+/*Ejemplo de clonado*/
 #include "Cohete.cpp"
 #include <iostream>
 #include <cstdlib>
